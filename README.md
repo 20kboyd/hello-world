@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello
+
+I'm Kyle and I attend Ohio University.
